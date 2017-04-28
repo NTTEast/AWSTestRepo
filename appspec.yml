@@ -1,0 +1,8 @@
+
+
+version: 0.0
+os: linux
+files:
+ - source: /etc/gittest2
+ - destination: /etc/gittest2
+ 
